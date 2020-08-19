@@ -1,0 +1,11 @@
+.bottomright {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.demo {
+    background-color: HotPink;
+    padding: 10px;
+    margin: 5px;
+}
