@@ -3,14 +3,11 @@
     width: 220px;
     height: 100%;
     left: 0;
+    top:50px;
     overflow-x: hidden;
     overflow-y: auto;
     background: #1a1a1a;
     color: #fff;
-}
-
-.content-container {
-    padding-top: 20px;
 }
 
 .sidebar-logo {
@@ -86,7 +83,6 @@
         display: none !important;
     }
     .content-container {
-        padding-left: 10px;
+        padding-left: 5px;
     }
-    
 }

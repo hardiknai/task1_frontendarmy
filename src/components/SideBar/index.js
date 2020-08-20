@@ -3,32 +3,32 @@ import "./index.css";
 
 export default function SideBar() {
   return (
-    <div class="sidebar-container">
-      <ul class="sidebar-navigation">
-        <li class="header">Navigation</li>
+    <div className="sidebar-container">
+      <ul className="sidebar-navigation">
+        <li className="header">Navigation</li>
         <li>
           <a href="#">
-            <i class="fa fa-home" aria-hidden="true"></i> Homepage
+            <i className="fa fa-home" aria-hidden="true"></i> Homepage
           </a>
         </li>
         <li>
           <a href="#">
-            <i class="fa fa-tachometer" aria-hidden="true"></i> Dashboard
+            <i className="fa fa-tachometer" aria-hidden="true"></i> Dashboard
           </a>
         </li>
         <li>
           <a href="#">
-            <i class="fa fa-users" aria-hidden="true"></i> Friends
+            <i className="fa fa-users" aria-hidden="true"></i> Friends
           </a>
         </li>
         <li>
           <a href="#">
-            <i class="fa fa-cog" aria-hidden="true"></i> Settings
+            <i className="fa fa-cog" aria-hidden="true"></i> Settings
           </a>
         </li>
         <li>
           <a href="#">
-            <i class="fa fa-info-circle" aria-hidden="true"></i> Information
+            <i className="fa fa-info-circle" aria-hidden="true"></i> Information
           </a>
         </li>
       </ul>

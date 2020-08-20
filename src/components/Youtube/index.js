@@ -3,10 +3,10 @@ import  "./index.css";
 
 export default function Youtube() {
   return (
-      <div  class="demo bottomright">
+      <div  className="demo bottomright">
         <iframe
           title="Title"
-          class="ytp"
+          className="ytp"
           src="https://www.youtube.com/embed/QjHNHonuCQU"
           frameborder="0"
           allowfullscreen

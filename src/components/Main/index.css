@@ -1,3 +1,11 @@
-.content-container {
-    padding-top: 20px;
+.main-content-container {
+    padding-top: 60px;
+    padding-left: 220px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .main-content-container {
+        padding-left: 5px;
+    }
 }

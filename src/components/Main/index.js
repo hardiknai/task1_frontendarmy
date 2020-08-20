@@ -3,9 +3,9 @@ import "./index.css";
 
 export default function Main() {
   return (
-    <div class="content-container">
-      <div class="container-fluid">
-        <div class="jumbotron">
+    <div className="main-content-container">
+      <div className="container-fluid">
+        <div className="jumbotron">
           <h1>Navbar example</h1>
           <p>
             This example is a quick exercise to illustrate how the default,
